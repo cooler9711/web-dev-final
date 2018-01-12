@@ -1,0 +1,97 @@
+/*all of the mixed things*/
+html {
+  background-color: #800080;
+}
+a {
+  text-decoration: none;
+  color: lightgrey;
+}
+#container {
+  color: #7FFF7F;
+}
+#name {
+  font-family: "Lobster", cursive;
+  display: inline-block;
+  font-size: 444%
+}
+/*home only*/
+#alotofthings {
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 40%;
+  left: 30%;
+}
+#subb {
+  font-size: 333%;
+  font-family: "Lobster Two", cursive;
+}
+/*about only*/
+#abtitle {
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 25%;
+  left: 45%;
+}
+#abtcontent {
+  font-family: "Lobster Two", cursive;
+  position: relative;
+  text-align: center;
+  font-size: 333%;
+  transform: translateY(150%);
+}
+#suba {
+  font-size: 333%;
+  font-family: "Lobster Two", cursive;
+  position: absolute;
+  text-align: center;
+  top: 65%;
+  left: 32.5%;
+}
+/*contact only*/
+#cmtitle {
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 25%;
+  left: 42.5%;
+}
+#cmcontent {
+  font-family: "Lobster Two", cursive;
+  position: relative;
+  text-align: center;
+  font-size: 333%;
+  transform: translateY(220%);
+}
+#subc {
+  font-size: 333%;
+  font-family: "Lobster Two", cursive;
+  position: absolute;
+  text-align: center;
+  top: 57.5%;
+  left: 32.5%;
+}
+/*project only*/
+#ptitle {
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 25%;
+  left: 42%;
+}
+#pcontent {
+  font-family: "Lobster Two", cursive;
+  position: relative;
+  text-align: center;
+  font-size: 333%;
+  transform: translateY(150%);
+}
+#subp {
+  font-size: 333%;
+  font-family: "Lobster Two", cursive;
+  position: absolute;
+  text-align: center;
+  top: 65%;
+  left: 31%;
+}
